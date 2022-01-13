@@ -19,7 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BFS\10026.cpp" />
+    <ClCompile Include="BFS\1012.cpp" />
+    <ClCompile Include="BFS\1697.cpp" />
+    <ClCompile Include="BFS\1926.cpp" />
+    <ClCompile Include="BFS\2178.cpp" />
+    <ClCompile Include="BFS\4179.cpp" />
     <ClCompile Include="BFS\5427.cpp" />
+    <ClCompile Include="BFS\7562.cpp" />
+    <ClCompile Include="BFS\7569.cpp" />
+    <ClCompile Include="BFS\7576.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
