@@ -19,6 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Array\10807.cpp" />
+    <ClCompile Include="Array\10808.cpp" />
+    <ClCompile Include="Array\11328.cpp" />
+    <ClCompile Include="Array\13300.cpp" />
+    <ClCompile Include="Array\1475.cpp" />
+    <ClCompile Include="Array\1919.cpp" />
+    <ClCompile Include="Array\2577.cpp" />
+    <ClCompile Include="Array\3273.cpp" />
     <ClCompile Include="BFS\10026.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
