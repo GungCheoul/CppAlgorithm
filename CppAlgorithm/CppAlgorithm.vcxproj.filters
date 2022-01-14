@@ -45,9 +45,6 @@
     <ClCompile Include="BFS\7576.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BFS\10026.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="BFS\2667.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -57,28 +54,13 @@
     <ClCompile Include="BFS\2468.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Array\10808.cpp">
+    <ClCompile Include="UseOfStack\4949.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Array\2577.cpp">
+    <ClCompile Include="UseOfStack\10799.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Array\1475.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Array\3273.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Array\10807.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Array\13300.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Array\11328.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Array\1919.cpp">
+    <ClCompile Include="UseOfStack\2504.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
