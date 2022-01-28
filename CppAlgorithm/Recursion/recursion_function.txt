@@ -1,0 +1,4 @@
+/// how to build recursion ///
+1. function definition // (type) func(parameter) {}
+2. base condition // if(condition) return; => for the all recursion
+3. recursion of function // body of recursion
