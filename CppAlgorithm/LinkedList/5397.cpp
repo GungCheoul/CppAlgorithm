@@ -35,12 +35,8 @@ int main() {
 			}
 			else pw.insert(cursor, k);
 		}
-		for (auto k : pw) {
-			if (k == '\0') cout << "null";
-			else
+		for (auto k : pw)
 				cout << k;
-
-		}
 		cout << '\n';
 	}
 	
